@@ -1,0 +1,4 @@
+org\Bow\tpBow\commands\giveBow.class
+org\Bow\tpBow\listeners\hintEvent.class
+org\Bow\tpBow\TpBow.class
+org\Bow\tpBow\utily\BowUtily.class

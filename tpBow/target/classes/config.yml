@@ -1,0 +1,5 @@
+bow-name: '&aЛук телепортации'
+bow-lore: '&eЭтот лук телепортирует тебя'
+bow-get-null-message: '&aДанного игрока нет в сети'
+no-bow.get-permission: '&aУ вас нет прав'
+no-bow-other-permission: '&eУ вас нет прав'
